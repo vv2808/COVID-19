@@ -37,6 +37,6 @@ npm start
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### Website Design & Developed by
-[CHARITH VARMA V ](https://www.linkedin.com/in/anshuman123/)
+[CHARITH VARMA V ](https://github.com/vv2808)
 
 
